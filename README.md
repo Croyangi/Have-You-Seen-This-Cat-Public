@@ -4,6 +4,7 @@ All scripts were solely developed by Heron Lin (Croyangi).
 This repo is meant for:
 - recruiters
 - collaborators
+- educational purposes
 - anyone reviewing my code structure, architecture, and scripting approach
 
 Only the Assets/_Scripts directory is included.
